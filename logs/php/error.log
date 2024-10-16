@@ -1,0 +1,2 @@
+[15-Oct-2024 19:58:24 UTC] PHP Warning:  Undefined property: stdClass::$id in /Users/antoniogonzalez/Repositories/SYNEGEN-LEARN-2.0/synegen-learn/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 675
+[15-Oct-2024 19:58:24 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in /Users/antoniogonzalez/Repositories/SYNEGEN-LEARN-2.0/synegen-learn/app/public/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php on line 678
